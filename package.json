@@ -1,0 +1,27 @@
+{
+  "name": "sqlite_micro_logger.siara.cc",
+  "version": "1.0.0",
+  "description": "Fast and Memory efficient Sqlite data logger",
+  "main": "sqlite_micro_logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siara-cc/sqlite_micro_logger_js.git"
+  },
+  "keywords": [
+    "sqlite",
+    "logger",
+    "microservices",
+    "database",
+    "storage",
+    "index"
+  ],
+  "author": "Arundale Ramanathan <arun@siara.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siara-cc/sqlite_micro_logger_js/issues"
+  },
+  "homepage": "https://github.com/siara-cc/sqlite_micro_logger_js"
+}
