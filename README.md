@@ -1,5 +1,7 @@
 # Sqlite µLogger
 
+NOTE: This repo is still under development and not available for use yet. The C version is available for use and can be found at https://github.com/siara-cc/sqlite_micro_logger_c
+
 Sqlite µLogger is a Fast and Lean database logger that can log data into Sqlite databases even with SRAM as low as 2kb.
 
 # Features
